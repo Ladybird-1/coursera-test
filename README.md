@@ -3,6 +3,6 @@ Coursera test repository
 
 <ul>
   <li>
-    <a href="https://github.com/Ladybird-1/coursera-test/tree/master/Module-2">Module-2 Code</a>
+    <a href="https://ladybird-1.github.io/coursera-test/Module-2/index.html">My PAGE</a>
   </li>
 </ul> 
